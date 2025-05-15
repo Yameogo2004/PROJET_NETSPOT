@@ -64,7 +64,7 @@ Ce projet consiste à effectuer une **étude complètede la couverture Wi-Fi du 
 
 ---
 
-## ✅ Résultat attendu
+## ✅ Résultat attendu apres la plannification
 Une **meilleure couverture Wi-Fi**, moins d’interférences et une planification professionnelle du réseau avec justification technique à l’aide des outils NetSpot.
 
 ---
