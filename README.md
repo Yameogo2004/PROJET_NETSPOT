@@ -9,8 +9,11 @@ Ce projet consiste à effectuer une **étude complètede la couverture Wi-Fi du 
 
 ## 📌 Cahier des Charges (CDC) du Projet
 
-### 1. Introduction
-Les **modulations QAM et PSK** sont à la base des nouvelles générations Wi-Fi (802.11n/ac/ax). Une bonne planification du réseau Wi-Fi est essentielle pour en tirer pleinement parti.
+### 1. Objectifs et portée du projet
+•Identification des besoins :
+•Objectifs du projet (amélioration de la couverture, réduction des interférences, optimisation de la performance).
+•Collecte d'informations :
+•Effectuer une inspection visuelle du site pour identifier les obstacles et les contraintes.
 
 ### 2. Étude de Site avec NetSpot
 - Réalisation d’une inspection Wi-Fi sur site avec NetSpot
@@ -46,7 +49,7 @@ Les **modulations QAM et PSK** sont à la base des nouvelles générations Wi-Fi
   1. **Inspector** : Vue des APs existants
   2. **Survey** : Cartographie du signal
   3. **Planning** : Positionnement optimal des nouveaux APs
-
+     
 ---
 
 ## 🛠 Outils utilisés
